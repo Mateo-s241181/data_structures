@@ -34,7 +34,7 @@ template<typename A> struct Element
         next = new_el;
     }
 
-    //----------------------------------------------------------------------------------------------------
+    //-----------------------------------------------------------------------------------------------------
     ///@return the number of elements, that are connected in a chain behind an element
     size_t len()
     {
