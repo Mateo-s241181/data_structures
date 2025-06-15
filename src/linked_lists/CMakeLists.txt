@@ -1,1 +1,2 @@
 add_subdirectory(single_linked_list)
+add_subdirectory(deque)
